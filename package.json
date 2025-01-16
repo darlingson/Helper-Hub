@@ -12,6 +12,7 @@
   "dependencies": {
     "mongoose": "^8.9.5",
     "nuxt": "^3.15.2",
+    "nuxt-app": "file:",
     "vue": "latest",
     "vue-router": "latest"
   }
